@@ -1,0 +1,27 @@
+.row{
+    margin: 30px 20px;
+    text-align: justify;
+    border-bottom: 1px solid black;
+    padding: 15px 0px;
+    cursor:pointer;
+    background-color: white;
+    border-radius: 20px;
+}
+.container{
+    border: 2px solid black;
+    width: 700px;
+    margin: 100px 400px 100px 600px;
+    background-color: gainsboro;
+}
+h2{
+    margin-left: 20px;
+}
+summary,p{
+    font-size: large;
+}
+details{
+    margin-left: 20px;
+}
+p{
+    text-align: justify;
+}
